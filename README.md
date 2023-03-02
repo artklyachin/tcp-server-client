@@ -8,11 +8,11 @@
 
 ```bash
 git clone git@github.com:artklyachin/udp-server-client.git
-cd udp-server-client
+udp-server-client
 git checkout dev
 ```
 
-Запуск в разных терминальных окнах приложение клиент и сервер (8000 - номер порта).
+Запуск в разных терминальных окнах приложение клиент и сервер.
 ``` bash
 python server.py
 python client.py
